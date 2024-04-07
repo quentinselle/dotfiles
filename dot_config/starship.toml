@@ -12,6 +12,9 @@ disabled = true
 [nix_shell]
 disabled = true
 
+[git_status]
+ignore_submodules = true
+
 [palettes.catppuccin_mocha]
 rosewater = "#f5e0dc"
 flamingo = "#f2cdcd"
